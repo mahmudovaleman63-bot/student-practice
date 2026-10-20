@@ -6,3 +6,6 @@ Bu repozitoriyada GitHub-dan istifadə etməyi öyrənirəm.
 - notes.md — öyrəndiklərim barədə qeydlər
 ## Növbəti addım
 Qeyd faylı yaradacağam və dəyişikliklərin tarixçəsinə baxacağam.
+## Öyrənmə məqsədi
+Budaqda dəyişiklik etməyi, pull request ilə yoxlamağı
+və main budağına birləşdirməyi öyrənirəm.
